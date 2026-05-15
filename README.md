@@ -9,8 +9,13 @@
 |---|---|---|
 | 2025– | 研究生 | 上海对外经贸大学数字经济 |
 
-## 📊 课程项目示例
-![问卷可视化示例](https://github.com/yiruzhu-suibe/survey/blob/main/output/desc_q9.png)
+## 📊 课程项目展示
+- W1：AI辅助数据清洗
+![AI辅助数据清洗示例](https://github.com/yiruzhu-suibe/survey/blob/main/output/cleaning_report.txt)
+- W2：描述统计与可视化
+![描述统计与可视化示例](https://github.com/yiruzhu-suibe/survey/blob/main/output/desc_q9.png)
+- W3：GitHub 协作与个人网站搭建
+![GitHub 协作与个人网站搭建示例](https://yiruzhu-suibe.github.io/)
 
 ## 🛠 技能与工具
 1. Python / Pandas / Plotly
